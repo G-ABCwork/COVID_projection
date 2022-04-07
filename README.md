@@ -25,4 +25,4 @@
 <img src = "./Figure for portfolio/Example.png" width = 500>
 </p>
 
-- [대외 분석보고서](https://g-abcwork.github.io/COVID_projection/)
+- [대외 분석보고서](https://g-abcwork.github.io/COVID_projection/Figure%20for%20portfolio/Report.pdf)
